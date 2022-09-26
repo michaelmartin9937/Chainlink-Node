@@ -1,6 +1,6 @@
 # Chainlink Node Project
 
-The UI for the node is password protected so there's no visible front end to send you to.
+I have to SSH into my server on Digital Ocean therefore there's no visible front end for you to see with this project.
 
 I used the following tech stack while building my node:
 -Digital Ocean
