@@ -1,13 +1,16 @@
-# Sample Hardhat Project
+# Chainlink Node Project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+The UI for the node is password protected so there's no visible front end to send you to.
 
-Try running some of the following tasks:
+I used the following tech stack while building my node:
+-Digital Ocean
+-Docker
+-Hardhat
+-Goerli Testnet
+-Metamask
+-VS Code
+-JavaScript
+-Solidity
 
-```shell
-npx hardhat help
-npx hardhat test
-GAS_REPORT=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+
+
